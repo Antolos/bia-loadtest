@@ -1,8 +1,8 @@
 config:
-  target: "SEU_TARGET"
+  target: "https://www.ancar.dev.br"
   phases:
     - duration: 900
-      arrivalRate: 500
+      arrivalRate: 300
       name: "Escalando"
     # - duration: 60
     #   arrivalRate: 1
